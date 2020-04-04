@@ -1,0 +1,73 @@
+body{
+	margin: 0 ;
+}
+.text{
+	width: 400px;
+    height: 55px;
+    border: 2px solid black;
+    font-size: 35px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.container{
+	width: 400px;
+	height: 300px;
+	border: 2px solid black;
+	margin: auto;
+    margin-top: 200px;
+}
+.nick{
+    width: 350px;
+    height: 40px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+.mail{
+    width: 350px;
+    height: 40px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+.password{
+    width: 350px;
+    height: 40px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+.send{
+	width: 150px;
+    height: 60px;
+    border: 2px solid black;
+    margin-top: 25px;
+    margin-left: 120px;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+}
+.enter{
+    width: 400px;
+    height: 300px;
+    background: white;
+    position: absolute;
+    margin-top: -283px;
+}
+.enter-text{
+	width: 350px;
+    height: 150px;
+    text-align: center;
+    font-size: 67px;
+    margin-left: 20px;
+    margin-top: 70px;
+}
